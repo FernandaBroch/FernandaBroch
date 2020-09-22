@@ -7,8 +7,7 @@
  🌱 I’m currently studying Java Spring Boot + React, please have a look at my repositories.
 
  📫 How to reach me: 
-
-- [![LinkedIn][2.2]][2] [Linkedin](https://www.linkedin.com/in/fernanda-broch/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fernanda-broch/)
 - 🗺️ You can also find me on Azeroth ⚔️🦉
 
 <!-- Icons -->
