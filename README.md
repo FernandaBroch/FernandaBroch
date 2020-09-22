@@ -8,7 +8,7 @@
 
  📫 How to reach me: 
 
-- [![LinkedIn][2.2]][2] [Linkedin]([2])
+- [![LinkedIn][2.2]][2] [Linkedin](https://www.linkedin.com/in/fernanda-broch/)
 - 🗺️ You can also find me on Azeroth ⚔️🦉
 
 <!-- Icons -->
