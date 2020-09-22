@@ -9,7 +9,7 @@
  📫 How to reach me: 
 
 - [![LinkedIn][2.2]][2] [Linkedin]([2])
-- 🗺️ You can also find in Azeroth ⚔️🦉
+- 🗺️ You can also find me on Azeroth ⚔️🦉
 
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/FernandaBroch/FernandaBroch/master/linkedin.svg (LinkedIn icon without padding)
