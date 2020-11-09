@@ -1,8 +1,4 @@
 ✨ Hi there ✨ 
-
- 🔭 I’m currently working as a Product Support Engineer, but ...
- 
- 👯 I’m looking for opportunities in the development area. I am pretty sure that soon I will get a job as a software developer <3 
  
  🌱 I’m currently studying Java Spring Boot + React, please have a look at my repositories.
 
